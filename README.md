@@ -1,2 +1,3 @@
 # Customer-Acquisition-Cost-Analysis-using-Python
-The “Flight Price Analysis Dashboard”, developed using Python and Tableau, provides a comprehensive visual representation of airline ticket pricing trends.
+This project focuses on developing a Python-based analytical tool and Tableau designed to enhance the efficiency and effectiveness of calculating Customer Acquisition Cost (CAC) for businesses. The tool uses Python and its powerful libraries, Pandas and Plotly, to automate CAC calculations, thereby facilitating better financial planning and marketing analysis. The project's primary objective is to deliver deeper insights through customized reporting and analytics, enabling businesses to optimize their marketing strategies and financial management. 
+
